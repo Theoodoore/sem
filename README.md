@@ -1,4 +1,7 @@
 README File
 ===========
-This is a README file. This is an update to the readme file. Even more text.
-![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/<username>/<repository>/<action file name>.yml?branch=<master branch>)
+![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/Theoodoore/sem/main.yml?branch=master)
+
+[![LICENSE](https://img.shields.io/github/license/Theoodoore/sem.svg?style=flat-square)](https://github.com/<github-username>/sem/blob/master/LICENSE)
+
+[![Releases](https://img.shields.io/github/release/Theoodoore/sem/all.svg?style=flat-square)](https://github.com/Theoodoore/sem/releases)
